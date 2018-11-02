@@ -93,12 +93,12 @@ function hideQuestion() {
   inputProgress.style.transition = 'none';
   inputGroup.style.border = null;
 }
-/*
+
 // Transform To Create Shake Motion
 function transform(x, y) {
   formBox.style.transform = `translate(${x}px, ${y}px)`;
 }
-
+/*
 // Validate Field
 function validate() {
   // Make Sure Pattern Matches If There Is One
