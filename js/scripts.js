@@ -77,14 +77,14 @@ function getQuestion() {
 
   showQuestion();
 }
-/*
+
 // Display Question To User
 function showQuestion() {
   inputGroup.style.opacity = 1;
   inputProgress.style.transition = '';
   inputProgress.style.width = '100%';
 }
-
+/*
 // Hide Question From User
 function hideQuestion() {
   inputGroup.style.opacity = 0;
