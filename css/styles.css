@@ -85,11 +85,11 @@ h1.end {
   cursor: pointer;
 }
 
-/*#prev-btn:hover {
+#prev-btn:hover {
   color: #b9d4ec;
 }
 
-#input-group {
+/*#input-group {
   position: relative;
   padding: 30px 20px 20px 20px;
   margin: 10px 60px 10px 10px;
