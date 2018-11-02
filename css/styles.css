@@ -153,13 +153,13 @@ h1.end {
   color: #ff2d26;
 }
 
-/*@media (max-width: 600px) {
+@media (max-width: 600px) {
   #form-box {
     width: 80%;
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
