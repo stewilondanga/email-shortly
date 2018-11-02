@@ -97,7 +97,7 @@ h1.end {
   transition: opacity 0.3s ease-in-out;
 }
 
-/*#input-group input {
+#input-group input {
   position: relative;
   width: 100%;
   border: none;
@@ -108,7 +108,7 @@ h1.end {
   box-shadow: none;
 }
 
-#input-group #input-label {
+/*#input-group #input-label {
   position: absolute;
   pointer-events: none;
   top: 32px;
