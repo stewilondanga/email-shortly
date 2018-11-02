@@ -30,7 +30,7 @@ const switchTime = 200; // Transition Between Questions
 
 // Init Position At First Question
 let position = 0;
-/*
+
 // Init DOM Elements
 const formBox = document.querySelector('#form-box');
 const nextBtn = document.querySelector('#next-btn');
@@ -42,7 +42,7 @@ const inputProgress = document.querySelector('#input-progress');
 const progress = document.querySelector('#progress-bar');
 
 // EVENTS
-
+/*
 // Get Question On DOM Load
 document.addEventListener('DOMContentLoaded', getQuestion);
 
