@@ -108,7 +108,7 @@ h1.end {
   box-shadow: none;
 }
 
-/*#input-group #input-label {
+#input-group #input-label {
   position: absolute;
   pointer-events: none;
   top: 32px;
@@ -118,7 +118,7 @@ h1.end {
   transition: 0.2s ease-in-out;
 }
 
-#input-group input:valid+#input-label {
+/*#input-group input:valid+#input-label {
   top: 6px;
   left: 42px;
   margin-left: 0 !important;
