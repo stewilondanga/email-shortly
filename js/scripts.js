@@ -108,7 +108,7 @@ function validate() {
     inputPass();
   }
 }
-/*
+
 // Field Input Fail
 function inputFail() {
   formBox.className = 'error';
@@ -119,7 +119,7 @@ function inputFail() {
     inputField.focus();
   }
 }
-
+/*
 // Field Input Passed
 function inputPass() {
   formBox.className = '';
