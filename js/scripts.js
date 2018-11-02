@@ -55,7 +55,7 @@ inputField.addEventListener('keyup', e => {
     validate();
   }
 });
-/*
+
 // FUNCTIONS
 
 // Get Question From Array & Add To Markup
@@ -77,7 +77,7 @@ function getQuestion() {
 
   showQuestion();
 }
-
+/*
 // Display Question To User
 function showQuestion() {
   inputGroup.style.opacity = 1;
