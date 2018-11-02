@@ -70,11 +70,11 @@ h1.end {
   z-index: 2;
 }
 
-/*#next-btn:hover {
+#next-btn:hover {
   color: #b9d4ec;
 }
 
-#prev-btn {
+/*#prev-btn {
   position: absolute;
   font-size: 18px;
   left: 30px;
