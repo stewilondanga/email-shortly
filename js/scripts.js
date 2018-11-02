@@ -48,14 +48,14 @@ document.addEventListener('DOMContentLoaded', getQuestion);
 
 // Next Button Click
 nextBtn.addEventListener('click', validate);
-/*
+
 // Input Field Enter Click
 inputField.addEventListener('keyup', e => {
   if (e.keyCode == 13) {
     validate();
   }
 });
-
+/*
 // FUNCTIONS
 
 // Get Question From Array & Add To Markup
