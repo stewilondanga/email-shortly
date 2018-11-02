@@ -26,14 +26,14 @@ h1.logo {
   font-size: 4em;
 }
 
-/*h1.end {
+h1.end {
   position: relative;
   color: #fff;
   opacity: 0;
   transition: 0.8s ease-in-out;
 }
 
-#container {
+/*#container {
   height: 100vh;
   display: flex;
   flex-direction: column;
