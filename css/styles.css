@@ -20,6 +20,14 @@ body {
   height: 1.5em;
 }
 
+#container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: top;
+  align-items: center;
+}
+
 h1.logo {
   color: #fff;
   font-family: 'Pacifico', cursive;
@@ -31,14 +39,6 @@ h1.end {
   color: #fff;
   opacity: 0;
   transition: 0.8s ease-in-out;
-}
-
-#container {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: top;
-  align-items: center;
 }
 
 /*#form-box {
