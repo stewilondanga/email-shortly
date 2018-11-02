@@ -41,7 +41,7 @@ h1.end {
   transition: 0.8s ease-in-out;
 }
 
-/*#form-box {
+#form-box {
   background: #fff;
   position: relative;
   width: 600px;
@@ -51,7 +51,7 @@ h1.end {
   transition: transform 0.1s ease-in-out;
 }
 
-#form-box.close {
+/*#form-box.close {
   width: 0;
   padding: 0;
   overflow: hidden;
