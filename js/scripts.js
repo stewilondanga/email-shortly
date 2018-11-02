@@ -42,10 +42,10 @@ const inputProgress = document.querySelector('#input-progress');
 const progress = document.querySelector('#progress-bar');
 
 // EVENTS
-/*
+
 // Get Question On DOM Load
 document.addEventListener('DOMContentLoaded', getQuestion);
-
+/*
 // Next Button Click
 nextBtn.addEventListener('click', validate);
 
