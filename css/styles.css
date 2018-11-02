@@ -145,11 +145,11 @@ h1.end {
   color: #fff;
 }
 
-/*.error #input-progress {
+.error #input-progress {
   border-color: #ff2d26;
 }
 
-.error #next-btn {
+/*.error #next-btn {
   color: #ff2d26;
 }
 
