@@ -146,7 +146,7 @@ function inputPass() {
     formComplete();
   }
 }
-/*
+
 // All Fields Complete - Show h1 end
 function formComplete() {
   const h1 = document.createElement('h1');
