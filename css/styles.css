@@ -149,11 +149,11 @@ h1.end {
   border-color: #ff2d26;
 }
 
-/*.error #next-btn {
+.error #next-btn {
   color: #ff2d26;
 }
 
-@media (max-width: 600px) {
+/*@media (max-width: 600px) {
   #form-box {
     width: 80%;
   }
