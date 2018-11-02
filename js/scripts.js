@@ -98,7 +98,7 @@ function hideQuestion() {
 function transform(x, y) {
   formBox.style.transform = `translate(${x}px, ${y}px)`;
 }
-/*
+
 // Validate Field
 function validate() {
   // Make Sure Pattern Matches If There Is One
@@ -108,7 +108,7 @@ function validate() {
     inputPass();
   }
 }
-
+/*
 // Field Input Fail
 function inputFail() {
   formBox.className = 'error';
