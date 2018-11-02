@@ -33,7 +33,7 @@ h1.end {
   transition: 0.8s ease-in-out;
 }
 
-/*#container {
+#container {
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -41,7 +41,7 @@ h1.end {
   align-items: center;
 }
 
-#form-box {
+/*#form-box {
   background: #fff;
   position: relative;
   width: 600px;
