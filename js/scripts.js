@@ -84,7 +84,7 @@ function showQuestion() {
   inputProgress.style.transition = '';
   inputProgress.style.width = '100%';
 }
-/*
+
 // Hide Question From User
 function hideQuestion() {
   inputGroup.style.opacity = 0;
@@ -93,7 +93,7 @@ function hideQuestion() {
   inputProgress.style.transition = 'none';
   inputGroup.style.border = null;
 }
-
+/*
 // Transform To Create Shake Motion
 function transform(x, y) {
   formBox.style.transform = `translate(${x}px, ${y}px)`;
