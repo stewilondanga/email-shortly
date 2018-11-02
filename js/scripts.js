@@ -45,10 +45,10 @@ const progress = document.querySelector('#progress-bar');
 
 // Get Question On DOM Load
 document.addEventListener('DOMContentLoaded', getQuestion);
-/*
+
 // Next Button Click
 nextBtn.addEventListener('click', validate);
-
+/*
 // Input Field Enter Click
 inputField.addEventListener('keyup', e => {
   if (e.keyCode == 13) {
