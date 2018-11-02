@@ -20,13 +20,13 @@ body {
   height: 1.5em;
 }
 
-/*h1.logo {
+h1.logo {
   color: #fff;
   font-family: 'Pacifico', cursive;
   font-size: 4em;
 }
 
-h1.end {
+/*h1.end {
   position: relative;
   color: #fff;
   opacity: 0;
